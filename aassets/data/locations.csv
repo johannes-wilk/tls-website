@@ -1,0 +1,13 @@
+﻿status;plot-name;lat;lon;forest-type;date;data-type;covered-area
+done;Las Majadas;39.942325;-5.770050;Savanna;December 2024;TLS;65ha
+done;Jenaro Herrera;-4.898994;-73.650462;Tropical Forest;November 2024;TLS;4ha
+done;Font Blanceh;43.24079;5.67865;Mediterrenian Forest;December 2024;TLS;1ha
+done;Paracou;5.274143;-52.923681;Tropical Forest;October 2023;TLS;1ha
+done;Tharandt;50.962923;13.564642;Coniferous Forest;January 2025;TLS;3ha
+done;Hohes Holz;52.088904;11.211970;Deciduous Forest;April 2024;TLS;3ha
+done;Kalebsberg;53.716025;12.582096;Deciduous Forest;March 2025;ULS;10ha
+planned;Ghana;6.729383;-2.085155;Savanna;January 2026;TLS;10ha
+planned;Hyltemossa;56.09763;13.41897;Coniferous Forest;August 2025;ULS;5ha
+planned;Svartberget;64.25611;19.7745;Coniferous Forest;August 2025;ULS;5ha
+planned;Hyytiälä;61.8474;24.2947;Coniferous Forest;August 2025;ULS;5ha
+planned;Sodankylä;67.36239;26.63859;Coniferous Forest;July 2025;ULS;5ha
