@@ -90,17 +90,13 @@ The website will eventually be published via **Netlify**, so the output must be 
 * Ensure the layout adapts well to desktop and mobile views.
 * Use clean transitions and navigation icons for the image carousel.
 
-### 5. Section: Partners and Contact
+### 5. Bottom Web page Color Line
 
-* Title: **"Collaborators & Contact"**
-* Logos of collaborating institutions (placeholder images acceptable)
-* Contact information:
+Include:
 
-  * Name: Johannes Wilk
-  * Email address: wilk@gfz.de
-  * Optionally embed a contact form
-
----
+* Name: Johannes Wilk
+* Affiliation: GFZ German Research Centre for Geosciences
+* Email address: wilk@gfz.de
 
 ## Deployment Instructions (for AI)
 

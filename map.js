@@ -26,7 +26,7 @@ function initMap() {
     const locations = [
         { status: 'done', 'plot-name': 'Las Majadas', lat: 39.942325, lon: -5.770050, 'forest-type': 'Savanna', date: 'December 2024', 'data-type': 'TLS', 'covered-area': '65ha' },
         { status: 'done', 'plot-name': 'Jenaro Herrera', lat: -4.898994, lon: -73.650462, 'forest-type': 'Tropical Forest', date: 'November 2024', 'data-type': 'TLS', 'covered-area': '4ha' },
-        { status: 'done', 'plot-name': 'Font Blanceh', lat: 43.24079, lon: 5.67865, 'forest-type': 'Mediterrenian Forest', date: 'December 2024', 'data-type': 'TLS', 'covered-area': '1ha' },
+        { status: 'done', 'plot-name': 'Font Blanche', lat: 43.24079, lon: 5.67865, 'forest-type': 'Mediterrenian Forest', date: 'December 2024', 'data-type': 'TLS', 'covered-area': '1ha' },
         { status: 'done', 'plot-name': 'Paracou', lat: 5.274143, lon: -52.923681, 'forest-type': 'Tropical Forest', date: 'October 2023', 'data-type': 'TLS', 'covered-area': '1ha' },
         { status: 'done', 'plot-name': 'Tharandt', lat: 50.962923, lon: 13.564642, 'forest-type': 'Coniferous Forest', date: 'January 2025', 'data-type': 'TLS', 'covered-area': '3ha' },
         { status: 'done', 'plot-name': 'Hohes Holz', lat: 52.088904, lon: 11.211970, 'forest-type': 'Deciduous Forest', date: 'April 2024', 'data-type': 'TLS', 'covered-area': '3ha' },
